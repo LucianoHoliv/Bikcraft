@@ -1,0 +1,14 @@
+.header {
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+}
+
+.header__nav li + li {
+    margin-left: .8rem;
+}
+
+.header__nav a {
+    font-size: 1.286rem;
+    color: #ffffff;
+}

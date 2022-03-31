@@ -24,3 +24,8 @@ img {
 .bg-primary {
     background: #000;
 }
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
