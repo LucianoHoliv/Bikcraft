@@ -1,0 +1,23 @@
+.font01--xs {
+  font-size: 0.75rem; /* 12px */
+}
+
+.font01--s {
+  font-size: 1rem; /* 16px */
+}
+
+.font01--m {
+  font-size: 1.125rem; /* 18px */
+}
+
+.font01--l {
+  font-size: 1.5rem; /* 24px */
+}
+
+.font01--xl {
+  font-size: 2rem; /* 32px */
+}
+
+.font01--xxl {
+  font-size: 4rem; /* 64x */
+}
